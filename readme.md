@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Application
 
 This application consists of a single API which returns author name upon calling "/elearning".
@@ -25,3 +26,6 @@ kubectl create -f /k8s
 
 ## Automated deployment
 deployment.sh in the main directory to build and push the image to docker hub and then redeploy to kubernetes.
+=======
+
+>>>>>>> d97e4db31efef98064447c655801b342ce501876
